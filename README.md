@@ -1,2 +1,2 @@
-# Misc_Scripts
-Miscellaneous Python Scripts
+# Metaproteomics Scripts
+Miscellaneous Python scripts for Metaproteomics
